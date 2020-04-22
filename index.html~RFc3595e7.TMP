@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Multimedia Project</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+</style>
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/merienda-one:n4:default;abel:n4:default.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="scrolltag">
+<div class="headdiv">
+<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+<header id="header"><h1>&nbsp; &nbsp;Multimedia Project</h1>
+<h4>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="#scrolltoscrolldown">Let's explore!</a></h4>
+	</header>
+</div>
+	
+	<br/>
+	<br/>
+	
+	
+  <div class="scrolldown"><a id="scrolltoscrolldown">
+	  <br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<h2>W&nbsp; h&nbsp; a&nbsp; t&nbsp; &nbsp; &nbsp; i&nbsp; s&nbsp; &nbsp; &nbsp;M&nbsp; u&nbsp; l&nbsp; t&nbsp; i&nbsp; m&nbsp; e&nbsp; d&nbsp; i&nbsp; a&nbsp; &nbsp;?</h2></a>
+	<p>Multimedia is content that uses a combination of different<br> content forms such as text, audio, images, animations,<br> video and interactive content. Multimedia contrasts with<br> media that use only rudimentary computer displays such<br> as text-only or traditional forms of printed or<br> hand-produced material.</p>
+		
+	
+	
+	</div></div>
+</body>
+</html>
